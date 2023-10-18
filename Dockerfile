@@ -4,3 +4,4 @@ COPY .nirc /root/.nirc
 
 RUN npm i -g @antfu/ni
 RUN npm i -g pnpm
+RUN npm config set registry https://registry.npmmirror.com
