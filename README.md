@@ -1,3 +1,5 @@
+![Docker Pulls](https://img.shields.io/docker/pulls/linuxsuren/antfu-ni)
+
 # antfu-ni-docker
 This project will provide the image of [antfu/ni](https://github.com/antfu/ni).
 
